@@ -7,9 +7,10 @@ super + Return
 	xterm
 	#urxvt
 
-# program launcher
+# program launcher (rofi)
 super + @space
-	dmenu_run
+	rofi -show combi -modes combi -combi-modes "window,drun,run"
+	#dmenu_run
 
 # make sxhkd reload its configuration files:
 super + Escape

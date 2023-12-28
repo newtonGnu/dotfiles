@@ -16,4 +16,7 @@ alias ..='cd ..'
 # dots custom git command
 alias dots='/usr/bin/git --git-dir=$HOME/.dots-repo --work-tree=$HOME'
 
+# lynx default options
+alias lynx='lynx -accept_all_cookies -vikeys -session=$HOME/.lynx_session'
+
 PS1='[\u@\h \W]\$ '
