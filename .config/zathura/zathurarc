@@ -1,0 +1,7 @@
+# custom zathura config
+map i		recolor
+set recolor	true
+
+# include catpuccin theme
+include catppuccin-mocha
+
