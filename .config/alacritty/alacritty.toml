@@ -1,0 +1,5 @@
+#import = ["/home/bbrain/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+import = ["/home/bbrain/.config/alacritty/catppuccin-mocha.toml"]
+
+[font]
+size = 9.0
